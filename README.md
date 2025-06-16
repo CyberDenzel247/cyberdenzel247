@@ -1,13 +1,25 @@
-<h1>Hi, I'm Denzel! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/denzelfrimpong/">Cybersecurity Professional</a>
+<h1>Hi, I'm Denzel! <br/>
+  <a href="https://github.com/joshmadakor1">Programmer</a>,
+  <a href="https://www.linkedin.com/in/denzelfrimpong/">Cybersecurity Professional</a>
+</h1>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Implementation (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Cloud Implementation (AlgoExpert)</b>  
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📄 Certifications:</h2>
+
+- <b>CompTIA Security+ (Certification)</b>  
+  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20Security%2B.pdf?raw=true)
+
+- <b>CompTIA CySA+ (Certification)</b>  
+  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20CySA%2B%20ce%20certificate%20(1).pdf?raw=true)
+
+- <b>CompTIA PenTest+ (Certification)</b>  
+  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20CySA%2B%20ce%20certificate%20(1).pdf?raw=true)
 
 
-<h2>📄Certifications</h2>
-[CompTIA Security+ (
-<h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
