@@ -1,5 +1,5 @@
 <h1>Hi, I'm Denzel! <br/>
-  <a href="https://github.com/joshmadakor1">Programmer</a>,
+  <a href="https://github.com/CyberDenzel247">Programmer</a>,
   <a href="https://www.linkedin.com/in/denzelfrimpong/">Cybersecurity Professional</a>
 </h1>
 
