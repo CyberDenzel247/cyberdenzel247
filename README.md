@@ -11,13 +11,14 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA Security+ (Certification)</b>  
-  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20Security%2B.pdf?raw=true)
+  - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20Security%2B.pdf" target="_blank">View Certificate</a>
 
 - <b>CompTIA CySA+ (Certification)</b>  
-  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20CySA%2B%20ce%20certificate%20(1).pdf?raw=true)
+  - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20CySA%2B%20ce%20certificate%20(1).pdf" target="_blank">View Certificate</a>
 
 - <b>CompTIA PenTest+ (Certification)</b>  
-  - [View Certificate](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20CySA%2B%20ce%20certificate%20(1).pdf?raw=true)
+  - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20PenTest%2B%20ce%20certificate.pdf" target="_blank">View Certificate</a>
+
 
 
 
