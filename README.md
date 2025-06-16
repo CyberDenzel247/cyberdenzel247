@@ -5,8 +5,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Implementation (AlgoExpert)</b>  
-  - [Practicing DS & Algos in Python](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.docx)
+- <b>Incident Response and Management Plan</b>  
+  - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
 
 <h2>📄 Certifications:</h2>
 
