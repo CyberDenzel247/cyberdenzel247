@@ -7,6 +7,14 @@
 
 - <b>Incident Response and Management Plan</b>  
   - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
+  - [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
+
+- <b>Cloud Security</b>
+  - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
+
+- <b>Governance, Risk, and Compliance (GRC)</b>
+  - [Cybersecurity Management Plan](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cybersecurity%20Management%20Plan.pdf)
+  - [Security System Evaluation and Remediation](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Security%20System%20Evaluation%20and%20Remediation.pdf)
 
 <h2>📄 Certifications:</h2>
 
@@ -27,7 +35,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DenzelFrimpong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]:https://linkedin.com/in/denzelfrimpong
