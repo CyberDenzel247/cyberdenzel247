@@ -27,6 +27,12 @@
 - <b>CompTIA PenTest+ (Certification)</b>  
   - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/CompTIA%20PenTest%2B%20ce%20certificate.pdf" target="_blank">View Certificate</a>
 
+- <b>Google Cybersecurity Professional (Certification)</b>  
+  - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Google%20Cybersecurity.pdf" target="_blank">View Certificate</a>
+
+- <b>Google IT Support Professional (Certification)</b>
+  - <a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Google%20IT%20Support%20Professional.pdf" target="_blank">View Certificate</a>
+
 
 
 <h2>📺 Popular YouTube Videos:</h2>
