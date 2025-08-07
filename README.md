@@ -6,13 +6,20 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Cloud Security</b>
-  - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
+<ul>
+  <li><b>🌩️ Cloud Security</b>
+    <ul>
+      <li><a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf">Cloud Implementation Plan (Identity Access Management)</a></li>
+    </ul>
+  </li>
 
-  - <b>Governance, Risk, and Compliance (GRC)</b>
-  - [Cybersecurity Management Plan](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cybersecurity%20Management%20Plan.pdf)
-  - [Security System Evaluation and Remediation](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Security%20System%20Evaluation%20and%20Remediation.pdf)
- 
+  <li><b>🛡️ Governance, Risk, and Compliance (GRC)</b>
+    <ul>
+      <li><a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cybersecurity%20Management%20Plan.pdf">Cybersecurity Management Plan</a></li>
+      <li><a href="https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Security%20System%20Evaluation%20and%20Remediation.pdf">Security System Evaluation and Remediation</a></li>
+    </ul>
+  </li>
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
