@@ -2,8 +2,6 @@
   <a href="https://github.com/CyberDenzel247">Programmer</a>,
   <a href="https://www.linkedin.com/in/denzelfrimpong/">Cybersecurity Professional</a>
   
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -20,6 +18,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
+- [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
   
 - <b>Cloud Security</b>
   - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
