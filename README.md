@@ -9,6 +9,15 @@
   - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
   - [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+  
 - <b>Cloud Security</b>
   - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
 
