@@ -6,10 +6,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Incident Response and Management Plan</b>  
-  - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
-  - [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
-
+- <b>Cloud Security</b>
+  - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
+    - <b>Governance, Risk, and Compliance (GRC)</b>
+  - [Cybersecurity Management Plan](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cybersecurity%20Management%20Plan.pdf)
+  - [Security System Evaluation and Remediation](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Security%20System%20Evaluation%20and%20Remediation.pdf)
+ 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
@@ -21,13 +23,6 @@
 - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
 - [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
   
-- <b>Cloud Security</b>
-  - [Cloud Implementation Plan (Identity Access Management)](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cloud%20Security.pdf)
-
-- <b>Governance, Risk, and Compliance (GRC)</b>
-  - [Cybersecurity Management Plan](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Cybersecurity%20Management%20Plan.pdf)
-  - [Security System Evaluation and Remediation](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/Security%20System%20Evaluation%20and%20Remediation.pdf)
-
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA Security+ (Certification)</b>  
