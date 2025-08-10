@@ -22,12 +22,12 @@
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/cyberdenzel247/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/cyberdenzel247/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberdenzel247/threat-hunting-scenario-tor)**
 - [Incident Response](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/frimpong-wgu_d483_security_operations_screenshots%20-Completed.pdf)
 - [Incident Response Reporting](https://github.com/CyberDenzel247/cyberdenzel247/blob/main/D481%20-%20Security%20Foundations%20-%20v2%20-%20Completed.pdf)
   
